@@ -162,3 +162,4 @@ cython_debug/
 
 #Extras
 4.2.0
+notebook/data

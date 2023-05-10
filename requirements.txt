@@ -7,5 +7,5 @@ catboost
 xgboost
 dill
 matplotlib<=3.6.0
-
+witwidget
 # -e .

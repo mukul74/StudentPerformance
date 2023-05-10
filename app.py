@@ -30,7 +30,7 @@ def predict_datapoint():
             writing_score=float(request.form.get('reading_score'))
 
         )
-        pred_df=data.get_data_as_data_frame()
+        pred_df=data.get_data_as_frame()
         print(pred_df)
         print("Before Prediction")
 

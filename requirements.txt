@@ -1,11 +1,10 @@
-pandas
-numpy
-seaborn
-ydata-profiling
-ipywidgets
-catboost
-xgboost
-dill
-matplotlib<=3.6.0
-witwidget
--e .
+catboost==1.2
+dill==0.3.6
+Flask==2.3.2
+log_symbols==0.0.14
+numpy==1.23.5
+pandas==1.5.3
+scikit_learn==1.2.2
+setuptools==67.7.2
+tqdm==4.64.1
+xgboost==1.7.5
